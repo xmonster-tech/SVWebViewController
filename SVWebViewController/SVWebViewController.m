@@ -206,8 +206,11 @@
                           flexibleSpace,
                           refreshStopBarButtonItem,
                           flexibleSpace,
-                          self.actionBarButtonItem,
-                          fixedSpace,
+                          flexibleSpace,
+                          flexibleSpace,
+//                          flexibleSpace,
+//                          self.actionBarButtonItem,
+//                          fixedSpace,
                           nil];
         
         self.navigationController.toolbar.barStyle = self.navigationController.navigationBar.barStyle;
